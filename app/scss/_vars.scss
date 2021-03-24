@@ -1,0 +1,11 @@
+$title: rgb(25, 20, 97);
+$navigation: rgb(18, 19, 88);
+$bgc: rgb(167, 232, 243);
+$white: #fff;
+
+@mixin title() {
+    font-size: 26px;
+    font-weight: 600;
+    color: $title;
+    line-height: 28px;
+}
